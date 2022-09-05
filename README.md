@@ -4,7 +4,7 @@ Sentimenet analysis on scraped tweets
 * Calculate sentiment  with NLTK.Vader
 * Text pre-processing  on "key words" and "Key Phrases" (cleaning, Stop word, Tokenization, Lemmatization..)
 * Visualization
-* Model Building
+* Model Building (LogisticRegression)
 * Predictions on 'key words' and 'key phrases'based features (bow|tf-idf)
 
 
